@@ -1,0 +1,5 @@
+Black = 'black'
+White = 'white'
+Red = 'red'
+Blue = 'blue'
+Green = 'green'
